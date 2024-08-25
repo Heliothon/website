@@ -1,4 +1,4 @@
-module github.com/selsayed25/senior-research-site
+module github.com/heliothon/website
 
 go 1.19
 
